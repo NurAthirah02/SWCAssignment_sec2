@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=FlowerClass
+comment0.text=\n\ Description\:\ Java\ program\ of\ definition\ for\ the\ Flower\ Class\ to\ manage\ flower\ inventory\n\ Name\:\ Nur\ Athirah\ Binti\ Hilalluddin\n\ Date\:19/2/2024\n
+comment1.params=
+comment1.target=FlowerClass()
+comment2.params=name\ color\ price\ quantity
+comment2.target=FlowerClass(java.lang.String,\ java.lang.String,\ double,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.lang.String\ getColor()
+comment5.params=
+comment5.target=double\ getPrice()
+comment6.params=
+comment6.target=int\ getQuantity()
+comment7.params=name\ color\ price\ quantity
+comment7.target=void\ setFlowerClass(java.lang.String,\ java.lang.String,\ double,\ int)
+comment8.params=
+comment8.target=double\ calcCost()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
